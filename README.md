@@ -62,7 +62,7 @@ commentObj = {
 
 ## Development
 ```bash
-$ git clone https://github.com/wenliangdai/react-audioplayer.git
+$ git clone https://github.com/rpsoft/react-audioplayer
 $ npm install
 $ npm start
 ```
