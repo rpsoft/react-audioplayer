@@ -1,6 +1,6 @@
 {
   "name": "react-audioplayer-mini",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A customizable html5 audio player for React.js made very small",
   "main": "lib/index.js",
   "repository": {
@@ -79,7 +79,7 @@
     "react-dom": "^15.4.2",
     "react-motion": "^0.4.7"
   },
-  "author": "Wenliang Dai <daiwenliang123@gmail.com>",
+  "author": "",
   "license": "MIT",
   "keywords": [
     "react",
