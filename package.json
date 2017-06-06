@@ -1,7 +1,7 @@
 {
-  "name": "react-audioplayer",
-  "version": "0.2.3",
-  "description": "A customizable html5 audio player for React.js",
+  "name": "react-audioplayer-mini",
+  "version": "0.0.1",
+  "description": "A customizable html5 audio player for React.js made very small",
   "main": "lib/index.js",
   "repository": {
     "url": "https://github.com/wenliangdai/react-audioplayer.git",
